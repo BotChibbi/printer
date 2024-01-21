@@ -1,0 +1,10 @@
+.hi{
+    background-color: rgb(0, 0, 0);
+    color:azure;
+    height: 100px;
+}
+.hi:hover{
+    background-color: rgb(255, 222, 37);
+    color:rgb(0, 0, 0);
+
+}
